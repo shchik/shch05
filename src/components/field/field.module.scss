@@ -1,0 +1,16 @@
+.field {
+	display: flex;
+	align-items: center;
+	font-size: 1.25rem;
+	margin-top: 0.75rem;
+
+	input {
+		width: 100%;
+		font-size: 1rem;
+		padding: 0.25rem 0.5rem;
+		border: 1px solid gray;
+		border-radius: 0.25rem;
+		outline: none;
+		margin-left: 0.75rem;
+	}
+}
